@@ -12,6 +12,7 @@ tags: acp
 **2016/04/24** pmi.org审核通过
 **2016/04/25** chinapmp.cn提交审核，培训机构选了一家深圳机构，但是实际我没有钱进行培训
 **2016/04/27** chinapmp.cn审核通过，付费
+**2016/05/10** chinapmp.cn预约成功，没有抽中（万幸）
 
 ## 根据Reference List的内容去找对应的书籍
 http://www.pmi.org/~/media/PDF/Certifications/ACP_Reference_list_v2.ashx
