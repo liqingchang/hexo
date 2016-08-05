@@ -1,5 +1,5 @@
 layout: exam
-title: prep
+title: PMI-ACP Exam Prep
 draft: PMI-ACP
 date: 2016-06-18 20:28:34
 tags:
@@ -309,8 +309,3 @@ XP的核心价值是 简洁、沟通、反馈、勇气和尊敬
 #### Lean 精益
 #### Kanban
 #### T&T Process Tailoring
-
-# Chapter 3 VALUE-DRIVEN DELIVERY
-
-
-
