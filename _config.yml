@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 枪枪枪枪
+title: 枪枪青枪
 subtitle:
 description:
 author: 枪枪枪枪
@@ -86,3 +86,4 @@ baidusitemap:
 
 # google analytics
 google_analytics: UA-97239460-1
+use_font_lato: false
