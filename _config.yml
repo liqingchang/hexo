@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 枪枪青枪
+title: 枪枪枪枪
 subtitle:
 description:
 author: 枪枪枪枪
@@ -74,8 +74,8 @@ deploy:
     type: rsync
     host: 4gun.net
     user: terry
-    port: 22
-    root: /home/terry/hexo/public
+    port: 2222
+    root: /home/terry/blog
     delete: true
 
 # hexo sitemap网站地图
