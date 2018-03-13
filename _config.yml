@@ -74,7 +74,7 @@ deploy:
     type: rsync
     host: 4gun.net
     user: terry
-    port: 2222
+    port: 22
     root: /home/terry/blog
     delete: true
 
